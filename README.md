@@ -1,4 +1,4 @@
-### Olá, Sejá bem Vindo!!! 👋
+### Olá, Sejá Bem Vindo!!! 👋
 
 <div style="margin: 20px; display: inline-block; width: 100%;">
   <img height="100%" width="100%" align="top" src="./.github/assets/fundo_cortado.jpeg"/>
