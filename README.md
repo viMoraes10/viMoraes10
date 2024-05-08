@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<div> 
-  <img height="100%" with="20%" aling="top" src="./.github/assets/fundo.jpeg"/>
+<div style="margin: 20px;">
+  <img height="10%" with="20%" aling="top" src="./.github/assets/fundo.jpeg"/>
 </div>
   
 <div>
