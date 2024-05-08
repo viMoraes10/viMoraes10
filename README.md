@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div> 
-  <img height="100%" with="20%" aling="top" src=""/> 
+  <img height="100%" with="20%" aling="top" src="./.github/assets/banner.png"/>
 </div>
   
 <div>
