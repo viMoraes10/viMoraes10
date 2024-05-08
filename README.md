@@ -7,8 +7,9 @@
  
 ## Meus contatos
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/v1Moraes/](https://www.linkedin.com/in/v1Moraes/))
-<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-chi-lemon-51.vercel.app) -->
+<a target="_blank" href="https://www.linkedin.com/in/v1Moraes/">
+  <img align="left" alt="LinkdeIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
 
