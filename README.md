@@ -1,8 +1,5 @@
 ### Olá, Sejá bem Vindo!!! 👋
 
-<button onclick="document.getElementById('musicaDeFundo').play()">Play Música</button>
-
-
 <div style="margin: 20px; display: inline-block; width: 100%;">
   <img height="100%" width="100%" align="top" src="./.github/assets/fundo_cortado.jpeg"/>
 </div>
