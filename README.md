@@ -1,15 +1,10 @@
-### Hi there 👋
+### Olá, Sejá bem Vindo!!! 👋
 
 <div style="margin: 20px; display: inline-block; width: 100%;">
-  <img height="400px" width="100%" align="top" src="./.github/assets/fundo.jpeg"/>
+  <img height="100%" width="100%" align="top" src="./.github/assets/fundo_cortado.jpeg"/>
 </div>
   
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <a href="https://github.com/viMoraes10">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viMoraes10&layout=compact&langs_count=7&theme=dark&cache_seconds=1800"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viMoraes10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
+ 
 
 
     
