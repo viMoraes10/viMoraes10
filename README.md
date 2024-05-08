@@ -5,6 +5,13 @@
   
 </audio>
 
+<audio id="musicaDeFundo">
+  <source src="./.github/assets/music.mp3" type="audio/mp3">
+  Seu navegador não suporta áudio HTML.
+</audio>
+<button onclick="document.getElementById('musicaDeFundo').play()">Play Música</button>
+
+
 <div style="margin: 20px; display: inline-block; width: 100%;">
   <img height="100%" width="100%" align="top" src="./.github/assets/fundo_cortado.jpeg"/>
 </div>
