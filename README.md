@@ -1,13 +1,5 @@
 ### Olá, Sejá bem Vindo!!! 👋
 
- 
-
-<audio autoplay loop muted id="musicaDeFundo">
-  <source src="./.github/assets/music.mp3" type="audio/mp3">
-  <source src="./.github/assets/music.ogg" type="audio/ogg">
-  Seu navegador não suporta áudio HTML.
-</audio>
-
 <button onclick="document.getElementById('musicaDeFundo').play()">Play Música</button>
 
 
