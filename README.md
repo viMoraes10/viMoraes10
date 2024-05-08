@@ -1,5 +1,10 @@
 ### Olá, Sejá bem Vindo!!! 👋
 
+<audio autoplay loop>
+  <source src="caminho_para_sua_musica.mp3" type="audio/mp3">
+  
+</audio>
+
 <div style="margin: 20px; display: inline-block; width: 100%;">
   <img height="100%" width="100%" align="top" src="./.github/assets/fundo_cortado.jpeg"/>
 </div>
