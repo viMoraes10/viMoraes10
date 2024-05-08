@@ -1,7 +1,7 @@
 ### Olá, Sejá bem Vindo!!! 👋
 
 <audio autoplay loop>
-  <source src="caminho_para_sua_musica.mp3" type="audio/mp3">
+  <source src="./.github/assets/music.mp3" type="audio/mp3">
   
 </audio>
 
